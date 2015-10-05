@@ -3,7 +3,7 @@ you just need gulp, nodejs and coffee support
 
 
 ####
-All follow above points and ensure everything is installed
+All you need is to follow above points and ensure everything is installed
 
 after that you have to run [npm install] in the app directory
 
